@@ -1,0 +1,8 @@
+body {
+  background-color: rgb(78, 78, 78);
+  color: white;
+  font-family: monospace;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
